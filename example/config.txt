@@ -1,0 +1,2 @@
+Prefix plugins/CreateStyle/example/
+Plugin CreateStyle inputfile parameters.txt outputfile output.xml

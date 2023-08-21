@@ -1,0 +1,5 @@
+in_gml	input.gml
+style_name	users_style1
+abundance_file	abundance.csv
+metabolon_file	metabolites.csv
+clinical_file	clinical.csv
